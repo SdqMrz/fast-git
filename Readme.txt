@@ -1,1 +1,1 @@
-telegram channel: @RealPentesting
+Thank you for using this Template
